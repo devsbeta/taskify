@@ -5,7 +5,7 @@ import 'package:heroicons/heroicons.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:hive/hive.dart';
 import 'package:taskify/config/strings.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import 'package:taskify/screens/authentication/login_screen.dart';
 import 'dart:io';
 import '../../bloc/auth/auth_bloc.dart';

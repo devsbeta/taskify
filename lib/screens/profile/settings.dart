@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:taskify/config/colors.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 
 import 'package:taskify/utils/widgets/custom_text.dart';
 

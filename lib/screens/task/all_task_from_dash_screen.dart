@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'package:flutter/services.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+ 
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -52,6 +52,7 @@ import 'package:taskify/bloc/workspace/workspace_state.dart';
 import 'package:taskify/config/colors.dart';
 import 'package:taskify/data/model/create_task_model.dart';
 import 'package:taskify/data/repositories/Task/task_repo.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import 'package:taskify/screens/dash_board/dashboard.dart';
 import 'package:taskify/screens/home_screen/widgets/workspace_dialog.dart';
 import 'package:taskify/screens/widgets/no_data.dart';

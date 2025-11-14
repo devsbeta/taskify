@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:heroicons/heroicons.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import '../../../bloc/activity_log/activity_log_bloc.dart';
 import '../../../bloc/activity_log/activity_log_event.dart';
 import '../../../bloc/activity_log/activity_log_state.dart';
@@ -24,7 +25,6 @@ import '../../../utils/widgets/toast_widget.dart';
 import '../../notes/widgets/notes_shimmer_widget.dart';
 import '../../widgets/no_data.dart';
 import '../../widgets/search_field.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import '../../widgets/speech_to_text.dart';
 
 class ProjectActivityLogScreen extends StatefulWidget {

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:slidable_bar/slidable_bar.dart';
 import 'package:taskify/config/colors.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import 'package:taskify/screens/widgets/edit_delete_pop.dart';
 import 'package:taskify/utils/widgets/back_arrow.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -15,7 +16,6 @@ import '../../bloc/user/user_bloc.dart';
 import '../../bloc/user/user_event.dart';
 import '../../config/constants.dart';
 import '../../routes/routes.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import '../../utils/widgets/custom_text.dart';
 import 'package:heroicons/heroicons.dart';
 import '../../config/internet_connectivity.dart';

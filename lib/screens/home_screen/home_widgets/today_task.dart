@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import 'package:taskify/utils/widgets/toast_widget.dart';
 import '../../../bloc/task/task_bloc.dart';
 import '../../../bloc/task/task_event.dart';
 import '../../../bloc/task/task_state.dart';
 import '../../../bloc/theme/theme_bloc.dart';
 import '../../../bloc/theme/theme_state.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import '../../../config/constants.dart';
 import '../../../data/model/task/task_model.dart';
 import '../../../utils/widgets/row_dashboard.dart';

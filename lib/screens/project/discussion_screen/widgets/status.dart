@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 
 import '../../../../utils/widgets/custom_text.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:heroicons/heroicons.dart';
 import 'package:taskify/config/colors.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 import '../../../widgets/custom_cancel_create_button.dart';
 

@@ -1,7 +1,7 @@
 import 'package:custom_date_range_picker/custom_date_range_picker.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter/material.dart';
 import 'package:taskify/bloc/auth/auth_bloc.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import 'package:taskify/screens/leave_request/widgets/single_userfield.dart';
 
 import '../../bloc/leave_request/leave_request_bloc.dart';

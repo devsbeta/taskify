@@ -7,7 +7,7 @@ import 'package:taskify/bloc/dashboard_stats/dash_board_stats_state.dart';
 import 'package:taskify/config/colors.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:taskify/data/model/dashboard_stats/dashboard_stats_model.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import '../../../bloc/dashboard_stats/dash_board_stats_bloc.dart';
 import '../../../bloc/dashboard_stats/dash_board_stats_event.dart';
 import '../../../bloc/theme/theme_bloc.dart';

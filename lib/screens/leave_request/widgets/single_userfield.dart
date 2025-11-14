@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:taskify/config/colors.dart';
 import 'package:heroicons/heroicons.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import '../../../bloc/single_user/single_user_bloc.dart';
 import '../../../bloc/single_user/single_user_event.dart';
 import '../../../bloc/single_user/single_user_state.dart';

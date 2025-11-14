@@ -4,7 +4,7 @@ import 'package:taskify/bloc/workspace/workspace_bloc.dart';
 import 'package:taskify/config/colors.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:heroicons/heroicons.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import '../../../bloc/auth/auth_bloc.dart';
 import '../../../bloc/dashboard_stats/dash_board_stats_bloc.dart';
 import '../../../bloc/dashboard_stats/dash_board_stats_event.dart';

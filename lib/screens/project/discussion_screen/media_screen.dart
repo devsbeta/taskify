@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_glow/flutter_glow.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:heroicons/heroicons.dart';
 import 'package:hive/hive.dart';
 import 'package:showcaseview/showcaseview.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 
 import '../../../bloc/Project/project_state.dart';
 import '../../../bloc/permissions/permissions_bloc.dart';

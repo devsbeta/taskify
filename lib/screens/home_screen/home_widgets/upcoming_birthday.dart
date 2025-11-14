@@ -5,6 +5,7 @@ import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:heroicons/heroicons.dart';
 
 import 'package:taskify/config/colors.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import 'package:taskify/screens/widgets/no_data.dart';
 import '../../../bloc/birthday/birthday_bloc.dart';
 import '../../../bloc/birthday/birthday_event.dart';
@@ -24,7 +25,6 @@ import '../../../utils/widgets/my_theme.dart';
 import '../../notes/widgets/notes_shimmer_widget.dart';
 import '../../widgets/custom_cancel_create_button.dart';
 import '../home_screen.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../widgets/list_of_user.dart';

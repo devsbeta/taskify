@@ -9,8 +9,8 @@ import 'package:heroicons/heroicons.dart';
 
 import 'package:taskify/config/constants.dart';
 import 'package:taskify/data/model/clients/all_client_model.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import 'package:taskify/utils/widgets/back_arrow.dart';
 import '../../bloc/client_id/clientid_bloc.dart';
 import '../../bloc/client_id/clientid_event.dart';

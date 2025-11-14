@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:taskify/config/colors.dart';
+import 'package:taskify/l10n/app_localizations.dart';
 import 'package:taskify/utils/widgets/custom_text.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../routes/routes.dart';
